@@ -130,6 +130,8 @@ app.*.symbols
 # Arquivos APK, AAB e similares
 *.apk
 *.aab
+*.ap_
+
 
 # Arquivos ZIP
 *.zip
