@@ -38,3 +38,8 @@ flutter pub get
 
 # Execute o aplicativo
 flutter run
+```
+
+## Agradecimentos
+
+Gostaria de agradecer pela oportunidade do processo seletivo, na qual o aplicativo apesar de ser simples, explora muitas técnicas e implementações. Espero que gostem! :)
