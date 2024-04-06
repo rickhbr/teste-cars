@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.teste_cars.app-mergeDebugResources-14:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/rickramos/.gradle/caches/transforms-3/ba15259c75ceb233b2ed438badc1c902/transformed/work-runtime-2.8.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
