@@ -1,4 +1,0 @@
-#Thu Apr 04 13:52:05 AMT 2024
-base.0=/Users/rickramos/Documents/teste_cars/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
