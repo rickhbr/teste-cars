@@ -57,7 +57,9 @@ app.*.map.json
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
 **/android/key.properties
+**/android/app/build/
 *.jks
+
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
@@ -124,3 +126,17 @@ app.*.symbols
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
 !.vscode/settings.json
+
+# Arquivos APK, AAB e similares
+*.apk
+*.aab
+
+# Arquivos ZIP
+*.zip
+
+# Pasta de saída
+/out
+
+# Arquivos temporários
+**/tmp/**
+*.hprof
